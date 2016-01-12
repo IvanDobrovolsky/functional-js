@@ -1,0 +1,23 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "This is education project for learning functional features in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanDobrovolsky/functional-js.git"
+  },
+  "author": "Ivan Dobrovolsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanDobrovolsky/functional-js/issues"
+  },
+  "homepage": "https://github.com/IvanDobrovolsky/functional-js#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "^3.10.1"
+  }
+}

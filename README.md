@@ -14,3 +14,5 @@ https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
      - .reduce()
 
 5. Closures
+
+6. Carrying
