@@ -12,3 +12,5 @@ https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 3. Reduce basics,
 4. Reduce advanced
      - .reduce()
+
+5. Closures
