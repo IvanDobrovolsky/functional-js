@@ -18,6 +18,7 @@
   "homepage": "https://github.com/IvanDobrovolsky/functional-js#readme",
   "dependencies": {
     "fs": "0.0.2",
+    "highland": "^2.6.0",
     "lodash": "^3.10.1"
   }
 }

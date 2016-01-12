@@ -22,3 +22,5 @@ https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 8. Promises
 
 9. Functors
+
+10. Streams
